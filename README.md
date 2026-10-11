@@ -1,0 +1,1 @@
+Project that's built using html,css and javascript. This book Market project aims to be a bridge between the college students in sharing their nots by reselling them and also the students who are trying to buy books at low cost.
